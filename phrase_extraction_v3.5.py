@@ -253,7 +253,7 @@ def main():
         extractor.save_results(results)
         
         # 新增：并发调用 deepseek-chat 判断产品词组
-        api_key = "sk-4f18b29caeb149f5a3d4ed08b4d6d886"
+        api_key = "your deepseek apikey"
         product_phrases = []
         print("正在并发判断哪些词组为产品类别词组...")
         def check_and_collect(result):
