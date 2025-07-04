@@ -1,4 +1,3 @@
-# Tender_Keyword_Extractor
 # Keyword & Product Phrase Extraction from Tender Data
 
 ## Project Overview
